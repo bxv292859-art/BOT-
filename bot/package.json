@@ -6,6 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "@huggingface/inference": "^2.8.1",
     "fca-unofficial": "github:VangBanLaNhat/fca-unofficial",
     "fs-extra": "^11.2.0",
     "chalk": "^4.1.2",
