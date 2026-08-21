@@ -26,6 +26,7 @@
     "@tobyg74/tiktok-api-dl": "^1.1.8",
     "@google/generative-ai": "^0.15.0",
     "cheerio": "^1.0.0",
-    "node-fetch": "^2.7.0"
+    "node-fetch": "^2.7.0",
+    "shaon-videos-downloader": "^1.0.1"
   }
 }
